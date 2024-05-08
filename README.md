@@ -1,4 +1,4 @@
-# Canvas File Viewer Enhancer
+# CanvasViewer
 
 ## Overview
 
