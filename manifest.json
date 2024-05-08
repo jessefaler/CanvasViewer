@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Canvas Better PDF",
+  "version": "1.0",
+  "description": "Improves the PDF viewer in Canvas",
+  "permissions": [
+    "activeTab"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["https://auburn.instructure.com/*"],
+      "js": ["content.js"]
+    }
+  ]
+}
