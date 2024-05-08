@@ -19,8 +19,7 @@ Please note that this extension is currently in development and may not be fully
    - **Custom Styling Options**: Provide options for users to customize the style of the viewer according to their preferences.
 
 ## Releases
-
-   - **This extension is in development and not currently functional. It will be available when it is complete.
+   - This extension is in development and not currently functional. It will be available when it is complete.
 
 ## Contributions
 
