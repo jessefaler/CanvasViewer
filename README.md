@@ -23,5 +23,5 @@ Please note that this extension is currently in development and may not be fully
 
 ## Contributions
 
-Contributions to this project are welcome! If you have any suggestions, feature requests, or would like to report a bug, please submit an issue or pull request to the GitHub repository.
+Contribution to this project are welcome! If you have any suggestions, feature requests, or would like to report a bug, please submit an issue or pull request to the GitHub repository.
 
